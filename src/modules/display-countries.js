@@ -1,5 +1,5 @@
 const displayCountries = (countries, container) => {
-  countries.forEach(country => {
+  countries.forEach((country) => {
     const li = document.createElement('li');
     li.innerHTML = `
       <img src="${country.flags.png}" alt="${country.flags.alt}" class="flag">
