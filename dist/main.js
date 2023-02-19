@@ -16,7 +16,7 @@
   \*************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://rest-countries-api/./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n___CSS_LOADER_EXPORT___.push([module.id, \"@import url(https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap);\"]);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"* {\\n  margin: 0;\\n  padding: 0;\\n  box-sizing: border-box;\\n  list-style: none;\\n}\\n\\nhtml {\\n  font-size: calc(15px + 0.390625vw);\\n}\\n\\nbody {\\n  font-family: 'Nunito Sans', sans-serif;\\n}\\n\\n.countries ul {\\n  display: flex;\\n  flex-wrap: wrap;\\n  justify-content: center;\\n  gap: 3rem;\\n  margin: 1rem auto;\\n}\\n\\n.countries li {\\n  width: 75%;\\n  border-radius: 10px;\\n  box-shadow: 0px 1px 5px 2px gainsboro;\\n}\\n\\n.flag {\\n  width: 100%;\\n  border-radius: 10px 10px 0 0;\\n}\\n\\n.desc {\\n  padding: 2rem;\\n}\\n\\n.official-name{\\n  font-weight: 800;\\n  font-size: 2rem;\\n  padding-bottom: 1rem;\\n}\\n\\n.desc span {\\n  font-weight: 600;\\n}\\n\\n.population,\\n.region,\\n.capital {\\n  font-size: 1.5rem;\\n}\\n\\n@media screen and (min-width: 768px) {\\n  .countries ul {\\n    justify-content: space-around;\\n    gap: 2rem;\\n    margin: 2.5rem;\\n  }\\n\\n  .countries li {\\n    width: 20%;\\n  }\\n\\n  .flag {\\n    height: 175px;\\n  }\\n\\n  .desc {\\n    padding: 0.5rem;\\n  }\\n\\n  .official-name {\\n    font-size: 1rem;\\n  }\\n\\n  .population,\\n  .region,\\n  .capital {\\n    font-size: 0.75rem;\\n  }\\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://rest-countries-api/./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -116,7 +116,37 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n\n\n//# sourceURL=webpack://rest-countries-api/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _style_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./style.css */ \"./src/style.css\");\n/* harmony import */ var _modules_url_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./modules/url.js */ \"./src/modules/url.js\");\n/* harmony import */ var _modules_retrieve_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./modules/retrieve.js */ \"./src/modules/retrieve.js\");\n/* harmony import */ var _modules_display_countries_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./modules/display-countries.js */ \"./src/modules/display-countries.js\");\n\n\n\n\n\nconst container = document.querySelector('.countries ul');\nconst result = (0,_modules_retrieve_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(_modules_url_js__WEBPACK_IMPORTED_MODULE_1__[\"default\"]);\n\nwindow.addEventListener('load', () => {\n  result.then(countries => {\n    (0,_modules_display_countries_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(countries, container);\n  });\n});\n\n//# sourceURL=webpack://rest-countries-api/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/modules/display-countries.js":
+/*!******************************************!*\
+  !*** ./src/modules/display-countries.js ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst displayCountries = (countries, container) => {\n  countries.forEach(country => {\n    const li = document.createElement('li');\n    li.innerHTML = `\n      <img src=\"${country.flags.png}\" alt=\"${country.flags.alt}\" class=\"flag\">\n      <div class=\"desc\">\n        <p class=\"official-name\">${country.name.official}</p>\n        <p class=\"population\"><span>Population: </span>${country.population}</p>\n        <p class=\"region\"><span>Region: </span>${country.region}</p>\n        <p class=\"capital\"><span>Capital: </span>${country.capital}</p>\n      </div>\n    `;\n    container.appendChild(li);\n  });\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (displayCountries);\n\n//# sourceURL=webpack://rest-countries-api/./src/modules/display-countries.js?");
+
+/***/ }),
+
+/***/ "./src/modules/retrieve.js":
+/*!*********************************!*\
+  !*** ./src/modules/retrieve.js ***!
+  \*********************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst retrieve = async (requestURL) => {\n  const request = new Request(requestURL);\n  const response = await fetch(request);\n  const json = await response.json();\n  return json;\n};\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (retrieve);\n\n//# sourceURL=webpack://rest-countries-api/./src/modules/retrieve.js?");
+
+/***/ }),
+
+/***/ "./src/modules/url.js":
+/*!****************************!*\
+  !*** ./src/modules/url.js ***!
+  \****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst url = `https://restcountries.com/v3.1/all`;\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (url);\n\n//# sourceURL=webpack://rest-countries-api/./src/modules/url.js?");
 
 /***/ })
 
