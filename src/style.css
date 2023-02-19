@@ -1,9 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap');
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  list-style: none;
 }
 
 html {
   font-size: calc(15px + 0.390625vw);
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.countries ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3rem;
+  margin: 1rem auto;
+}
+
+.countries li {
+  width: 75%;
+  border-radius: 10px;
+  box-shadow: 0px 1px 5px 2px gainsboro;
+}
+
+.flag {
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.desc {
+  padding: 2rem;
+}
+
+.official-name{
+  font-weight: 800;
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+
+.desc span {
+  font-weight: 600;
+}
+
+.population,
+.region,
+.capital {
+  font-size: 1.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .countries ul {
+    justify-content: space-around;
+    gap: 2rem;
+    margin: 2.5rem;
+  }
+
+  .countries li {
+    width: 20%;
+  }
+
+  .flag {
+    height: 175px;
+  }
+
+  .desc {
+    padding: 0.5rem;
+  }
+
+  .official-name {
+    font-size: 1rem;
+  }
+
+  .population,
+  .region,
+  .capital {
+    font-size: 0.75rem;
+  }
 }
