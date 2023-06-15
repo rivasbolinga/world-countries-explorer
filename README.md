@@ -1,4 +1,4 @@
-# REST-Countries-API
+# REST-Countries-API // COLLABORATIVE PROJECT
 
 # 📗 Table of Contents
 
@@ -22,9 +22,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 REST-Countries-API <a name="about-project"></a>
+# 🌍 World Countries Explorer <a name="about-project"></a>
 
-In this project, the challenge is integrating with the [REST Countries API](https://restcountries.com/) to pull country data and display it like in the designs.
+Welcome to World Countries Explorer, your ultimate online resource for comprehensive information about every country on Earth! 
+Our website provides a user-friendly interface that allows you to explore the details regarding each country, ensuring you have all the essential information at your fingertips. 
 ![desktop-design-home-dark](https://user-images.githubusercontent.com/10439283/222989199-41f78eba-9fb9-4b48-9d0d-5bf443d392b1.jpg)
 
 ## 🛠 Built With <a name="built-with"></a>
