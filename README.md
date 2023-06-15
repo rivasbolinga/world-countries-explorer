@@ -1,4 +1,8 @@
-# REST-Countries-API // COLLABORATIVE PROJECT
+![Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post](https://github.com/rivasbolinga/REST-Countries-API/assets/103900838/0fcdf562-f678-4650-a01a-86a1dbbf6c17)
+
+# WORLD COUNTRIES EXPLORER
+
+
 
 # 📗 Table of Contents
 
@@ -32,15 +36,16 @@ Our website provides a user-friendly interface that allows you to explore the de
 
 ### Tech Stack <a name="tech-stack"></a>
 
-HTML, CSS, JavaScript
+<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a><a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
 
 <!-- Features -->
 
 ## Key Features <a name="key-features"></a>
-- **[Use linters]**
-- **[Use webpack]**
-- **[Use Gitflow]**
-- **[See all countries from the API on the homepage]**
+- **[Full list of Countries in the home page]**
+- **[Single Countrie page where you can see all the details of the country selected like its flag, population, native name...]**
+- **[User can filter the countries by continent]**
+- **[SUser can search by country name]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
