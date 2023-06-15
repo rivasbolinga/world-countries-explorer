@@ -109,14 +109,7 @@ npm test
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
-- **[Search for a country using an input field]**
-- **[Filter countries by region]**
-- **[Click on a country to see more detailed information on a separate page]**
-- **[Click through to the border countries on the detail page]**
-- **[Toggle the color scheme between light and dark mode]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -130,7 +123,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project kindly show you support by giving it a **STAR**
+If you like this project kindly show your support by giving it a **STAR**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
