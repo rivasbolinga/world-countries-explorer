@@ -1,6 +1,8 @@
+# WORLD COUNTRIES EXPLORER
+
 ![Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post](https://github.com/rivasbolinga/REST-Countries-API/assets/103900838/0fcdf562-f678-4650-a01a-86a1dbbf6c17)
 
-# WORLD COUNTRIES EXPLORER
+
 
 
 
@@ -30,6 +32,7 @@
 
 Welcome to World Countries Explorer, your ultimate online resource for comprehensive information about every country on Earth! 
 Our website provides a user-friendly interface that allows you to explore the details regarding each country, ensuring you have all the essential information at your fingertips. 
+Created as a collaborative project. 
 ![desktop-design-home-dark](https://user-images.githubusercontent.com/10439283/222989199-41f78eba-9fb9-4b48-9d0d-5bf443d392b1.jpg)
 
 ## 🛠 Built With <a name="built-with"></a>
